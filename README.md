@@ -1,3 +1,4 @@
+![gif](https://github.com/katsiarynabelka/test1/blob/main/ezgif.com-optimize.gif)
 # Привет! Меня зовут Катя.
 ---
 
