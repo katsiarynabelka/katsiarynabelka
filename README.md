@@ -2,8 +2,8 @@
 ---
 ### About me:
 
-I am an aspiring QA engineer in web and mobile app testing. I have an economics degree and experience in the banking industry. During my time at the bank I got 2 certificates of professionalism, ranked 3rd in insurance among bank employees. I was temporarily acting manager and had 4 people under my supervision. 
-I am currently interested in testing and would like to develop in this field.  
+I'm junior QA engineer in web and mobile app testing. I have a bachelor's degree in economics and experience in the banking industry. My responsibility was selling banking services and managing teamwork. 
+Currently, I study manual testing and growing my talent in this field. 
 
 **My contacts**: [![LinkedIn Badge](https://img.shields.io/badge/-@katsiarynabelka-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiarynabelka/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ekatherinabelka@gmail.com)
 
@@ -28,11 +28,15 @@ I am currently interested in testing and would like to develop in this field.
 ### Testing documentation:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  
+ - [Test Plan](https://github.com/katsiarynabelka/Test-Plan)
+ - [Check-lists](https://github.com/katsiarynabelka/check-lists)
+ - [Test-cases](https://github.com/katsiarynabelka/test-cases)
+ - [Bug-reports](https://github.com/katsiarynabelka/bug-reports)
+ - [Postman collections](https://github.com/katsiarynabelka/Postman) 
+ - [MySQL](https://github.com/katsiarynabelka/MySQL)
+ - [Bash](https://github.com/katsiarynabelka/bash-test)
+  
 </div>
 
 ---
@@ -51,6 +55,11 @@ I am currently interested in testing and would like to develop in this field.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 
 </div>
 
@@ -58,5 +67,6 @@ I am currently interested in testing and would like to develop in this field.
 
 ### **Courses**:
 
+Functional software testing | [Artsiom Rusau](https://github.com/artichokeee) | 03/2023 - 06/2023  
 Fundamentals of software testing | [SHI (Fortis Koolitus OÜ)](https://shi.ee/tarkvarasusteemide-testimise-alused/) | 09/2021 - 11/2021  
-Functional software testing | [Artsiom Rusau](https://github.com/artichokeee) | 03/2023 - 06/2023
+
