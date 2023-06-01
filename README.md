@@ -1,14 +1,14 @@
-![gif](https://github.com/katsiarynabelka/test1/blob/main/ezgif.com-optimize.gif)
+![jpg](https://github.com/katsiarynabelka/mycv/blob/main/20230531_131427_0000.jpg)
 ---
 ### About me:
 
-I'm junior QA engineer in web and mobile app testing. I have a bachelor's degree in economics and experience in the banking industry. My responsibility was selling banking services and managing teamwork. 
+I'm QA engineer in web and mobile app testing. I have a bachelor's degree in economics and experience in the banking industry. My responsibility was selling banking services and managing teamwork. 
 Currently, I study manual testing and growing my talent in this field. 
 
 **My contacts**: [![LinkedIn Badge](https://img.shields.io/badge/-@katsiarynabelka-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiarynabelka/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ekatherinabelka@gmail.com)
 
 ---
-### My CV: 
+### My CV: [link](https://github.com/katsiarynabelka/mycv)
 
 ----
 
