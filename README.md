@@ -8,7 +8,7 @@ Currently, I study manual testing and growing my talent in this field.
 **My contacts**: [![LinkedIn Badge](https://img.shields.io/badge/-@katsiarynabelka-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiarynabelka/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ekatherinabelka@gmail.com)
 
 ---
-### My CV: [link](https://github.com/katsiarynabelka/mycv)
+### My CV: [link](https://github.com/katsiarynabelka/mycv/blob/main/CV%20Katsiaryna%20Belka.docx.pdf)
 
 ----
 
